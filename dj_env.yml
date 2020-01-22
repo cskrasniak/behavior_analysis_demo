@@ -18,6 +18,7 @@ dependencies:
  - tensorflow
  - keras
  - plotly
+ - pydot
  - pip >=19.0
  - pip:
    - colorlog >=4.0.2
@@ -29,4 +30,5 @@ dependencies:
    - pycircstat
    - nose
    - scikit-learn
+   
 
